@@ -1,2 +1,3 @@
 # grundriss
-http://www.github.com/
+
+Grundriss-plan von Zofingerstr. 18
